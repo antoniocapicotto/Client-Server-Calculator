@@ -1,9 +1,3 @@
-/*
-Primo esonero di Laboratorio - Reti di Calcolatori (INF) aa 20-21 di:
-Antonio Capicotto 719315
-Vito Luce 698859
-
-*/
 //libraries for sockets
 #ifdef WIN32
 #include <winsock.h>
