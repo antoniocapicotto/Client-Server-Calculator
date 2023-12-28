@@ -1,4 +1,4 @@
-# Client-Server Calculator 🖩
+# Client-Server Calculator 🔢
 
 ## Description
 
@@ -20,6 +20,4 @@ The server, equipped with robust processing logic, receives the calculations sen
 
 ## Repository Contents
 
-In this GitHub repository, you will find well-structured and commented source code that helps you understand the implementation of both components. Get ready to dive into the world of distributed programming and seamless client-server communication!
-
-## Let's Collaborate and Calculate! 🤝🔢
+In this GitHub repository, you will find well-structured and commented source code that helps you understand the implementation of both components. Get ready to dive into the world of distributed programming and seamless client-server communication.
