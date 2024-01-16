@@ -1,4 +1,4 @@
-# Client-Server Calculator 🔢
+# Client-Server Calculator 
 
 ## Description
 
